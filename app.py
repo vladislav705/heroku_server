@@ -5,8 +5,8 @@
 # import datetime, time
 # import numpy as np
 # from datetime import datetime, timedelta
-from flask import Flask
-from flask import request, render_template
+from flask import Flask, render_template
+# from flask import request, render_template
 # from functions import GetHistoricalData, make_new_col, bootstrap, dataset_for_current_pred
 
 
