@@ -4,7 +4,6 @@ from binance.client import Client
 import pandas as pd
 import datetime, time
 import numpy as np
-from numba import jit
 from datetime import datetime, timedelta
 from flask import Flask
 from flask import request, render_template
